@@ -1,0 +1,7 @@
+{
+  "name": "fred-proxy",
+  "version": "1.0.0",
+  "description": "Minimal FRED API proxy for G10 radar",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
